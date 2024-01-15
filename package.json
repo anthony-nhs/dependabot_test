@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@types/node": "^20.11.1"
+    "@types/node": "^20.11.1",
+    "ts-node": "^10.9.1"
   }
 }
