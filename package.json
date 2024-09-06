@@ -11,5 +11,8 @@
   "devDependencies": {
     "@types/node": "^22.5.4",
     "ts-node": "^10.9.2"
+  },
+  "dependencies": {
+    "@NHSDigital/eps-spine-client": "^2.0.13"
   }
 }
