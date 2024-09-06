@@ -13,6 +13,6 @@
     "ts-node": "^10.9.2"
   },
   "dependencies": {
-    "@NHSDigital/eps-spine-client": "^2.0.15"
+    "@NHSDigital/eps-spine-client": "npm:@NHSDigital/eps-spine-client@^2.0.13"
   }
 }
